@@ -1,0 +1,21 @@
+* {
+    background-color: gray;
+    text-align: center;
+}
+
+h2 {
+    color: magenta
+}
+
+table {
+    border: 1px solid white;
+}
+
+th {
+    background-color: magenta;
+}
+
+td {
+    text-align: left;
+
+}
